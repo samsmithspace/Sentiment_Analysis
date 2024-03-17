@@ -4,7 +4,7 @@ TEST_DATA_PATH = "test.csv"
 
 # Vocabulary
 VOCAB_SIZE = 10000
-
+MODEL="lstm"
 # Embedding
 EMBEDDING_DIM = 128
 
